@@ -4,6 +4,8 @@ Source from [The Movie Database (TMDb)](https://www.themoviedb.org/) API (v3) in
 
 Built with [gatsby-source-tmdb](https://github.com/LekoArts/gatsby-source-tmdb).
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/94b61ea3-9947-4b1c-91ce-74dae657be7b/deploy-status)](https://app.netlify.com/sites/hdmoviesbox/deploys)
+
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/LekoArts/gatsby-source-tmdb-example)
 
 ## How to use
